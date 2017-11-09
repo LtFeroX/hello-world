@@ -1,3 +1,4 @@
 # hello-world
-My first Repo
-This is only a test !!
+Just an easy VHDL Counter - nothing fancy.
+
+## thinking about projects....
